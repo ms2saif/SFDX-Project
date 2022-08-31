@@ -1,3 +1,6 @@
+/*
+Created By: Mohammad Saif Ansari
+*/
 public class ContactTriggerHelper {
     public static void afterInsertContact(List<Contact> listContact){
         if(!listContact.isEmpty()){
